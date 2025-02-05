@@ -1,3 +1,13 @@
+江苏影视FHD,http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
+江苏综艺FHD,http://ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
+江苏城市FHD,http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
+江苏新闻FHD，http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
+江苏教育FHD，http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
+江苏体育休闲FHD,http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
+烟火人家FHD, http://ott.mobaibox.com/PLTV/3/224/3221228610/index.m3u8
+漫长的季节FHD, http://ott.mobaibox.com/PLTV/3/224/3221228621/index.m3u8
+猎冰FHD, http://ott.mobaibox.com/PLTV/3/224/3221228624/index.m3u8
+永安梦FHD, http://ott.mobaibox.com/PLTV/3/224/3221228627/index.m3u8
 CCTV4K 16M2160,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 SiTV欢笑剧场 12M2160,http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
