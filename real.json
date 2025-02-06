@@ -5,24 +5,44 @@
         "name": "湖北移动",
         "type": 0,
         "url": "https://pxy.real9.cn/raw.githubusercontent.com/wangrui1573/iptv/main/chinamobile.txt",
-        "playerType": 1,
-        "timeout": 10
+        "playerType": 2,
+        "timeout": 10,
+        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+        "logo": "https://epg.iill.top/logo/{name}.png"
       },
       {
         "name": "江苏移动",
         "type": 0,
         "url": "https://pxy.real9.cn/raw.githubusercontent.com/wangrui1573/iptv/main/js.m3u8",
         "playerType": 1,
-        "timeout": 8
-        
+        "timeout": 8,
+        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+        "logo": "https://epg.iill.top/logo/{name}.png"
+      }
+    ],
+    "sites": [
+      {
+        "name": "测试1",
+        "type": 3,
+        "key": "example_site_1",
+        "url": "https://example.com/api/example_site_1",
+        "filterable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "jar": "https://example.com/jars/spring.jar",
+        "api": "example_API_1",
+        "ext": "eyJhcGkiOiJodHRwOi8vZXhhbXBsZS5jb20iLCJ0b2tlbiI6IiJ9",
+        "changeable": 0
+      }
+    ],
+    "rules": [
+      {
+        "name": "Age Restriction",
+        "rule": "All content is suitable for viewers aged 18 and above"
       },
       {
-        "name": "江苏移动2",
-        "type": 0,
-        "url": "https://pxy.real9.cn/raw.githubusercontent.com/wangrui1573/iptv/main/js.txt",
-        "playerType": 1,
-        "timeout": 8
-        
+        "name": "Content Availability",
+        "rule": "Content may be region-locked based on user location"
       }
     ]
   }
