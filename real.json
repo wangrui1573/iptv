@@ -19,6 +19,16 @@
         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "logo": "https://epg.iill.top/logo/{name}.png"
         
+      },
+      {
+        "name": "江苏移动2",
+        "type": 0,
+        "url": "https://pxy.real9.cn/raw.githubusercontent.com/wangrui1573/iptv/main/js.txt",
+        "playerType": 1,
+        "timeout": 8,
+        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+        "logo": "https://epg.iill.top/logo/{name}.png"
+        
       }
     ]
   }
